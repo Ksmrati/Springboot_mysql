@@ -22,4 +22,5 @@ public class Name {
 	public String toString() {
 		return "Name [firstName=" + firstName + ", lastName=" + lastName + "]";
 	}
+	
 }

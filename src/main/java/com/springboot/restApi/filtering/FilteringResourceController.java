@@ -36,4 +36,6 @@ public class FilteringResourceController {
 		mappingJacksonValue.setFilters(filters );
 		return mappingJacksonValue;
 	}
+	
+	
 }

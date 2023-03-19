@@ -27,4 +27,6 @@ public class CourseJpaRepository {
 		Course find_course = entityManager.find(Course.class, id);
 		entityManager.remove(find_course);
 	}
+	
+	
 }

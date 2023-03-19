@@ -8,6 +8,7 @@ class SpringbootRestApiIProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }

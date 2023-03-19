@@ -38,4 +38,6 @@ public class SomeBean {
 		return "SomeBean [field1=" + field1 + ", field2=" + field2 + ", field3=" + field3 + "]";
 	}
 	
+	
+	
 }

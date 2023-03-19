@@ -22,4 +22,6 @@ public class SpringSecurityConfiguration {
         http.csrf().disable();
 		return http.build();
 	}
+	
+	
 }

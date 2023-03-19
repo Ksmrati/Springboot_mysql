@@ -40,4 +40,6 @@ public class HelloWordController {
         Locale locale = LocaleContextHolder.getLocale();
 		return messageSource.getMessage("good.morning.message", null, "defaultMessage", locale );
 	}
+	
+	
 }
